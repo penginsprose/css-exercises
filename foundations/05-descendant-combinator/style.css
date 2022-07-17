@@ -1,0 +1,9 @@
+.container .text{
+    background-color:#FFFF00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* need to add in the .text BECAUSE you will style the whole container 
+due to background-color being applied to div class="container"/
